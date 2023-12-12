@@ -1,6 +1,3 @@
-TypeScript Upload Tool
-🚀 Welcome to the TypeScript Upload Tool – A powerful utility for seamless file uploads with TypeScript support.
-
 🌟 Key Features
 TypeScript-Powered: Harness the benefits of TypeScript for a robust and type-safe file upload experience.
 

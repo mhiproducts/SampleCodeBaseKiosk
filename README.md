@@ -22,6 +22,3 @@ Explore the documentation to unleash the full potential of the TypeScript Upload
 
 🤝 Contributing
 We welcome contributions from the community! If you have ideas for improvements, new features, or bug fixes, please open an issue or submit a pull request. Check out our contribution guidelines for more details.
-
-📝 License
-This TypeScript Upload Tool is licensed under the [Your License] - see the LICENSE.md file for details.
